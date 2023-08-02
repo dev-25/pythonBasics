@@ -1,17 +1,19 @@
 Numeric data types: These data types are used to store numeric values. They include:
-Integers: Integers are whole numbers, such as 1, 2, 3, -1, -2, -3.
-Floats: Floats are numbers with decimal points, such as 1.0, 2.5, -3.14.
-Complex numbers: Complex numbers are numbers of the form a + bi, where a and b are real numbers and i is the imaginary unit.
+    Integers: Integers are whole numbers, such as 1, 2, 3, -1, -2, -3.
+    Floats: Floats are numbers with decimal points, such as 1.0, 2.5, -3.14.
+    Complex numbers: Complex numbers are numbers of the form a + bi, where a and b are real numbers and i is the imaginary unit.
 
 String data type: This data type is used to store text. Strings are sequences of characters, such as 'hello', 'world', 'Python'.
 
 Sequence data types: These data types are used to store a sequence of values. They include:
-Lists: Lists are mutable sequences of values. They can be used to store any type of data, including strings, integers, floats, and other lists.
-Tuples: Tuples are immutable sequences of values. They are similar to lists, but they cannot be changed once they are created.
-Ranges: Ranges are sequences of numbers that represent a range of values. They are often used for looping.
+    Lists: Lists are mutable sequences of values. They can be used to store any type of data, including strings, integers, floats, and other lists.
+    Tuples: Tuples are immutable sequences of values. They are similar to lists, but they cannot be changed once they are created.
+    Ranges: Ranges are sequences of numbers that represent a range of values. They are often used for looping.
 
 Boolean data type: This data type is used to store Boolean values, which can be either True or False.
 
 Set data types: These data types are used to store a collection of unique values. They are unordered and unindexed.
 
 Dictionary data types: These data types are used to store a mapping of keys to values. The keys are unique, and the values can be of any type.
+
+NoneType: Represents the absence of a value and is commonly denoted as None.
